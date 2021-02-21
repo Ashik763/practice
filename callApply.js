@@ -12,7 +12,12 @@ const normalPerson = {
     }
 }
 
-normalPerson.chargeBill(150);
-console.log(normalPerson.salary);
+// normalPerson.chargeBill(150);
+// console.log(normalPerson.salary);
+
+const heroPerson = {
+    firstName:'hero',
+    lastName:'balam',
+}
 
 
